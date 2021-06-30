@@ -7,6 +7,7 @@
         "linux-lts"
     ],
     "keyboard-language": "us",
+    "mirror-region": "Worldwide",
     "nic": {
         "NetworkManager": true,
         "nic": "Use NetworkManager to control and manage your internet connection"
@@ -16,6 +17,7 @@
         "firefox",
         "obs-studio"
     ],
+    "profile": "sway",
     "sys-encoding": "utf-8",
     "sys-language": "en_US",
     "timezone": "America/Los_Angeles",
