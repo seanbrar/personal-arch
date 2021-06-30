@@ -1,5 +1,6 @@
 {
     "audio": "pipewire",
+    "!encryption-password": "",
     "filesystem": "ext4",
     "kernels": [
         "linux",
@@ -18,6 +19,7 @@
         "obs-studio"
     ],
     "profile": "sway",
+    "!root-password": "",
     "sys-encoding": "utf-8",
     "sys-language": "en_US",
     "timezone": "America/Los_Angeles",
