@@ -12,10 +12,7 @@
         "nic": "Use NetworkManager to control and manage your internet connection"
     },
     "ntp": true,
-    "packages": [
-        "firefox",
-        "obs-studio"
-    ],
+    "$ref": "https://github.com/seanbrar/personal-arch/blob/b14e38ed41e89282fd93873821b9b8b3447b8ca0/packages.json",
     "sys-encoding": "utf-8",
     "sys-language": "en_US",
     "timezone": "America/Los_Angeles",
