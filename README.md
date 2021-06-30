@@ -1,6 +1,6 @@
 # Personal Arch Linux Installation Helper _(personal-arch)_
 
-[![license](https://img.shields.io/github/license/:seanbrar/:personal-arch.svg)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/seanbrar/personal-arch)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 Repo for configuration files and scripts to quickly get up and running on a new environment.
