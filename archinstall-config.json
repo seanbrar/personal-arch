@@ -1,7 +1,6 @@
 {
     "audio": "pipewire",
     "filesystem": "ext4",
-    "gfx_driver": "All open source (default)",
     "kernels": [
         "linux"
     ],
@@ -10,7 +9,7 @@
         "Worldwide": {
             "http://mirror.rackspace.com/archlinux/$repo/os/$arch": true,
             "http://mirrors.evowise.com/archlinux/$repo/os/$arch": true,
-            "https://mirror.rackspace.com/archlinux/$repo/os/$arch": true,
+            "https://mirror.rackspace.com/archlinux/$repo/os/$arch": true
         }
     },
     "nic": {
@@ -21,7 +20,7 @@
     "packages": [
         "firefox"
     ],
-    profile": {
+    "profile": {
         "path": "/root/archinstall/archinstall/profiles/sway.py"
     },
     "sys-encoding": "utf-8",
