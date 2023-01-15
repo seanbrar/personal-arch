@@ -4,7 +4,6 @@
     "filesystem": "ext4",
     "kernels": [
         "linux",
-        "linux-zen",
         "linux-lts"
     ],
     "keyboard-language": "us",
